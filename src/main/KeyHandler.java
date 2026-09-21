@@ -3,7 +3,7 @@ package main;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-//KeyListener  - the listner interface for receiving keyboard events(keystrokes)
+//KeyListener  - the listener interface for receiving keyboard events(keystrokes)
 public class KeyHandler implements KeyListener {
     public boolean upPressed, downPressed, leftPressed, rightPressed;
 

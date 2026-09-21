@@ -8,8 +8,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
-//video watched til: #3
-
 public class Player extends Entity{
     GamePanel gp;
     KeyHandler keyH;
